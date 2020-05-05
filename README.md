@@ -1,4 +1,4 @@
-# hmplayer
+# miniplayer
 
 ## Project setup
 ```
